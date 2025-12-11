@@ -1,8 +1,3 @@
-# AutoTwin :  Data-Driven-DEVS-System-Identification
-
-
-Here is a comprehensive README.md for your project. It documents the architecture, installation, and usage of the AutoTwin system we built.
-You can save this as README.md in the root of your project folder.
 AutoTwin: Data-Driven DEVS System Identification
 AutoTwin is an automated framework that reverse-engineers simulation models from raw tabular data.
 It combines Causal Discovery (to identify system structure), Machine Learning (to learn system physics/logic), and a DEVS-inspired Simulator (to execute the coupled models). This allows you to generate a functioning Digital Twin from a CSV file and run "What-If" scenarios on systems you don't fully understand.
